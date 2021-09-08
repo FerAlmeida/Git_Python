@@ -1,3 +1,4 @@
-# Arquivo para Aprendizagem GIT
+# Esse código abre o arquivo e lê seu conteúdo
 
-f = open ('receita-bolo-cenoura.txt', 'r')
+f = open('receitas-bolo-cenoura.txt', 'r')
+
